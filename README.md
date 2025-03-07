@@ -14,12 +14,6 @@ A clean, responsive, and elegant portfolio website with a minimalist design aest
 - **Minimalist UI**: Focus on content with a distraction-free interface
 - **Fast Loading**: Lightweight and optimized for performance
 
-## Demo
-
-You can see a live demo of the portfolio at [your-demo-link.com](https://your-demo-link.com)
-
-You need to turn off the ad-blocker
-
 ## Tech Stack
 
 - HTML5
