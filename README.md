@@ -117,8 +117,7 @@ This portfolio is optimized for modern browsers including:
 - Safari (latest)
 - Edge (latest)
 
-## License
-
+## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
