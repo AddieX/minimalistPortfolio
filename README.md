@@ -126,7 +126,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons: [Font Awesome](https://fontawesome.com/)
 
 ---
-
-Made with ❤️ by [Addie](https://github.com/AddieX)
-
 Note: Change the scoial links and put yours
